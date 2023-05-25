@@ -15,8 +15,9 @@ features to the dataset. By exploring different models and approaches, it may be
 improve the effectiveness of clickbait classification and gain further insights into the role of 
 emotions in headline language
 
-I provided the colap for the text classification , add the emotion column and all datasets used in the project 
-
+I provided the colab fils  for the text classification , add the emotion column and all datasets used in the project 
+### source of dataset
+[“Clickbait Dataset” Kaggle.com ](https://www.kaggle.com/datasets/amananandrai/clickbait-dataset)
 
 
 ## Authors
